@@ -35,7 +35,7 @@ a {
   margin: 1rem;
   flex-shrink: 0;
   flex-grow: 0;
-  color: white;
+  color: black;
 }
 
 .avatar img {
@@ -81,5 +81,9 @@ a {
 
 .dark {
   background-color: #282c38;
+  color: white;
+}
+
+.dark .avatar {
   color: white;
 }
