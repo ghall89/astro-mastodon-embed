@@ -25,3 +25,7 @@ In your Astro or MDX file:
 The MastodonEmbed component just needs a URL for the post you want to embed.
 
 `<MastodonEmbed url={yourUrl} />`
+
+## Dependencies
+
+- [astro-remote](https://github.com/natemoo-re/astro-remote)
