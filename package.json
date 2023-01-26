@@ -1,14 +1,14 @@
 {
-	"name": "astro-mastodon-embed",
-	"version": "0.0.1",
-	"description": "A component for embedding Mastodon posts in an Astro site.",
-	"main": "index.astro",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "",
-	"license": "ISC",
-	"dependencies": {
-		"astro-remote": "^0.2.3"
-	}
+  "name": "astro-mastodon-embed",
+  "version": "0.0.2",
+  "description": "A component for embedding Mastodon posts in an Astro site.",
+  "main": "index.astro",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "astro-remote": "^0.2.3"
+  }
 }

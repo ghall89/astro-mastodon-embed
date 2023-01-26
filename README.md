@@ -26,6 +26,14 @@ The MastodonEmbed component just needs a URL for the post you want to embed.
 
 `<MastodonEmbed url={yourUrl} />`
 
+By default, the component is in light mode. You can enable dark mode by passing the prop `variant="dark"`:
+
+`<MastodonEmbed url={yourUrl} variant="dark" />`
+
 ## Dependencies
 
 - [astro-remote](https://github.com/natemoo-re/astro-remote)
+
+## Acknowledgments
+
+- [Roboto](https://fonts.google.com/specimen/Roboto) - Used under the [Apache 2.0 license](./src/fonts/LICENSE.txt)
