@@ -1,6 +1,6 @@
 {
   "name": "astro-mastodon-embed",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A component for embedding Mastodon posts in an Astro site.",
   "repository": {
     "type": "git",

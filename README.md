@@ -10,7 +10,7 @@ This is very much a work in progress, and not at all ready for production.
 
 In your Astro project, run the following command:
 
-`npm install git+https://github.com/ghall89/astro-mastodon-embed.git`
+`npm i astro-mastodon-embed`
 
 ## Importing & Usage
 
