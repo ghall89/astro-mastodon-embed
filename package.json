@@ -2,13 +2,32 @@
   "name": "astro-mastodon-embed",
   "version": "0.0.2",
   "description": "A component for embedding Mastodon posts in an Astro site.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghall89/astro-mastodon-embed"
+  },
+  "homepage": "https://github.com/ghall89/astro-mastodon-embed",
   "main": "index.astro",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": {
+    "name": "Graham Hall",
+    "url": "https://ghall.dev"
+  },
   "license": "ISC",
   "dependencies": {
     "astro-remote": "^0.2.3"
+  },
+  "keywords": [
+    "astro",
+    "mastodon",
+    "astro-component",
+    "html",
+    "template"
+  ],
+  "devDependencies": {
+    "astro": "^1.6.13"
   }
 }
