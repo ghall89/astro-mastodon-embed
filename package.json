@@ -1,6 +1,6 @@
 {
   "name": "astro-mastodon-embed",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A component for embedding Mastodon posts in an Astro site.",
   "repository": {
     "type": "git",
@@ -28,6 +28,8 @@
     "template"
   ],
   "devDependencies": {
-    "astro": "^1.6.13"
+    "astro": "^1.6.13",
+    "prettier": "^2.8.1",
+    "prettier-plugin-astro": "^0.7.0"
   }
 }
