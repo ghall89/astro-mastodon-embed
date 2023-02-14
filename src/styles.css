@@ -39,7 +39,7 @@ a {
 }
 
 .avatar img {
-  width: 60px;
+  min-width: 60px;
   border-radius: 100px;
 }
 
@@ -77,6 +77,8 @@ a {
 }
 .toot-stats span {
   margin: 0 0.5rem;
+  display: flex;
+  flex-direction: row;
 }
 
 .dark {
