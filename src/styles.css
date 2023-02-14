@@ -75,10 +75,14 @@ a {
   justify-content: space-between;
   margin-top: 1rem;
 }
-.toot-stats span {
-  margin: 0 0.5rem;
+
+.toot-stats {
   display: flex;
   flex-direction: row;
+}
+
+.toot-stats span {
+  margin: 0 0.5rem;
 }
 
 .dark {
